@@ -12,7 +12,7 @@
 
 Estudiante de **Ingeniería Civil en Informática** en la **Universidad de La Frontera (UFRO)**. Me enfoco en el desarrollo de software robusto, arquitecturas web escalables y seguridad en el ciclo de vida del software.
 
--  **Intereses principales:** Desarrollo Full-Stack, Análisis Estático de Código / Seguridad de Software e Integración de Agentes e IA.
+-  **Intereses principales:** Desarrollo Full-Stack, Análisis Estático de Código / Seguridad de Software e Integración de Agentes de IA.
 -  **Objetivo:** Construir herramientas eficientes, seguras y de alto impacto técnico y social.
 
 ---
@@ -63,7 +63,7 @@ Estudiante de **Ingeniería Civil en Informática** en la **Universidad de La Fr
 
 ---
 
-##  Conecta Conmigo
+##  Contactame
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jonathan-chavez-4143ab387/" target="_blank">
